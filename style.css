@@ -1,7 +1,6 @@
 *{
     margin: 0;
     box-sizing: border-box;
-
 }
 body{
     background  : linear-gradient(#856349,#88777d ,#a98d89,#938c9a,#e3eded );
@@ -11,8 +10,6 @@ html{font-family:  Roboto, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe 
 }
 section ,aside , form,main,footer{
     margin: 30px;
-   
-     
 }
 h1{background: linear-gradient(#856349 ,#88777d ,#a98d89,#b1b6b6,#938c9a );
 background-clip: text;
